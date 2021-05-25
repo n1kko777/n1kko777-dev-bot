@@ -1,0 +1,23 @@
+{
+  "name": "n1kko777-dev-bot",
+  "version": "1.0.0",
+  "description": "This bot will allow you to calculate the cost of services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1kko777/n1kko777-dev-bot.git"
+  },
+  "author": "Nikita Tarasov <3734489@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n1kko777/n1kko777-dev-bot/issues"
+  },
+  "homepage": "https://github.com/n1kko777/n1kko777-dev-bot#readme",
+  "dependencies": {
+    "telegraf": "^4.3.0"
+  }
+}
